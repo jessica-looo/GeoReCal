@@ -1,0 +1,25 @@
+SEMPO_fcr_crossvar_sl256_dm256_run0
+
+[prediction_normalized]
+mae: 0.3660506308
+mse: 0.4467897415
+rmse: 0.6684233546
+corr: 0.5374724981
+
+[prediction_original]
+mae: 9.739948944
+mse: 316.3256254
+rmse: 17.78554541
+corr: 0.5374724992
+
+[linear_normalized]
+mae: 0.4413630664
+mse: 0.6510145068
+rmse: 0.8068547249
+corr: 0.3808260044
+
+[linear_original]
+mae: 11.74387801
+mse: 460.9160888
+rmse: 21.4689564
+corr: 0.3808260072

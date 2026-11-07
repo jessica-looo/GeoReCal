@@ -1,0 +1,25 @@
+SEMPO_ngr_ms_crossvar_sl32_dm256_run0
+
+[prediction_normalized]
+mae: 0.2545402646
+mse: 0.1363845319
+rmse: 0.3693027496
+corr: 0.1399198771
+
+[prediction_original]
+mae: 6.150657474
+mse: 79.63337778
+rmse: 8.92375357
+corr: 0.1399198218
+
+[linear_normalized]
+mae: 0.2446012795
+mse: 0.1126053482
+rmse: 0.3355672061
+corr: 0.112556095
+
+[linear_original]
+mae: 5.910493119
+mse: 65.74898173
+rmse: 8.10857458
+corr: 0.1125559783

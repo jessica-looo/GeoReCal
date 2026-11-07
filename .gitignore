@@ -1,0 +1,18 @@
+# OS and Python caches
+.DS_Store
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Model checkpoints
+checkpoints/
+*.pth
+*.pt
+*.ckpt
+
+# Logs and generated results
+logs/
+*.log
+*.out
+results.npz
+test_results/

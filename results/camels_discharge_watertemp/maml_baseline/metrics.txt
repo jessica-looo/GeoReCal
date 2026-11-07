@@ -1,0 +1,25 @@
+SEMPO_camels_crossvar_sl512_dm256_run0
+
+[prediction_normalized]
+mae: 0.3231344819
+mse: 0.1852176338
+rmse: 0.4303691685
+corr: 0.8342527132
+
+[prediction_original]
+mae: 1.749893647
+mse: 5.431739595
+rmse: 2.330609275
+corr: 0.8342527142
+
+[linear_normalized]
+mae: 0.5834496021
+mse: 0.5669834614
+rmse: 0.7529830337
+corr: 0.2344274159
+
+[linear_original]
+mae: 3.159596275
+mse: 16.62750072
+rmse: 4.077683254
+corr: 0.2344274175
